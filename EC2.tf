@@ -21,7 +21,7 @@ resource "aws_instance" "Terraformtest1" {
   key_name      = "AWS Terraformkeypair"
 
   tags = {
-    Name = "testing 1994"
+    Name = "testing 2017"
    
   }
 }
